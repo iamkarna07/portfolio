@@ -1,0 +1,17 @@
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    padding: 40px 0;
+  }
+  
+  .skill-item {
+    background-color: #eee;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .skill-item h3 {
+    font-size: 24px;
+  }
+  
